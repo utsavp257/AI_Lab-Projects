@@ -13,5 +13,5 @@ Third part is use of dynamic programming to calculate the optimal action accordi
 
 
 Assignment 6:-
-First part is a Spam Filter using Naive Bayes' Classifier, the keywords are stored according to the given input messages. The words of new input message are used to make prediction using the naive bayes' classifier, whether the message is spam or not.
+First part is a Spam Filter using Naive Bayes' Classifier, the keywords are stored according to the given input messages. The words of new input message are used to make prediction using the naive bayes' classifier, whether the message is spam or not.\n
 For the second part, we classify each person randomly as a child or an adult. According to that, we generate random heights and weights and make a classifier from that which predicts a person is adult or kid from the height and weight of the person. The accuracy of the predictions are measured.
